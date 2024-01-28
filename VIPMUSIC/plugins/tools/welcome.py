@@ -25,7 +25,7 @@ from VIPMUSIC.utils.vip_ban import admin_filter
 
 random_photo = [
     "https://telegra.ph/file/4b85be84279e154b89887.jpg",
-    "https://telegra.ph/file/4b85be84279e154b89887.jpg",
+    "https://telegra.ph/file/4b85be84279e154b89887.jpg", ]
 # --------------------------------------------------------------------------------- #
 
 get_font = lambda font_size, font_path: ImageFont.truetype(font_path, font_size)
